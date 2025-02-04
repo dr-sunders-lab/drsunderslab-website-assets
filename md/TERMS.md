@@ -32,7 +32,34 @@ Some features of the Platform may require you to create an account:
 
 ---
 
-## 4. Intellectual Property Rights
+## 4. Payment, Billing & Refunds
+
+If the Platform provides products, laboratory tests, consultations, or other services that require payment, the following terms apply:
+
+### 4.1. Payment Methods
+
+- Payments may be processed via secure third-party payment gateways.
+- By providing your payment information, you authorize us and our payment processors to charge the applicable fees.
+
+### 4.2. Pricing & Taxes
+
+- Prices displayed on the Platform are subject to change at our discretion.
+- All applicable taxes will be added to the final amount payable, unless otherwise stated.
+
+### 4.3. Refunds & Cancellations
+
+- Refund eligibility will be determined based on the nature of the service.
+- If applicable, refunds will be processed to the original payment method within a reasonable period.
+- Certain services, such as lab tests or consultations, **may not be refundable** once booked or completed.
+
+### 4.4. Payment Security
+
+- We use trusted and secure third-party payment gateways to process all transactions.
+- While we take reasonable precautions, we are **not responsible** for any security breaches, unauthorized access, or data loss at the payment processor’s end.
+
+---
+
+## 5. Intellectual Property Rights
 
 All content on the Platform, including but not limited to logos, text, images, designs, graphics, videos, software, and other materials, is the property of **Dr. Sunder's Lab** or its licensors and is protected by intellectual property laws.  
 You may not:
@@ -42,20 +69,15 @@ You may not:
 
 ---
 
-## 5. Third-Party Links and Services
-
-Our Platform may contain links to third-party websites or services for your convenience. We are **not responsible** for the content, accuracy, or practices of any third-party websites. Accessing third-party services is at your own risk, and we encourage you to review their respective terms and policies.
-
----
-
 ## 6. Limitation of Liability
 
 To the maximum extent permitted by law:
 
 - **Dr. Sunder's Lab** and its affiliates, directors, employees, and agents shall **not** be liable for any damages, losses, or expenses arising from:
   - Your use or inability to use our Platform.
+  - Payment gateway issues or unauthorized transactions.
   - Unauthorized access to or alteration of your data.
-  - Third-party actions, errors, or omissions.
+  - Any errors, interruptions, or technical issues on the Platform.
 - Our Platform is provided on an **“as-is” and “as-available”** basis without warranties of any kind.
 
 ---
@@ -84,7 +106,7 @@ We reserve the right to update or modify these Terms at any time to reflect chan
 
 ## 10. Governing Law and Jurisdiction
 
-These Terms are governed by and construed in accordance with the laws of **India**. Any disputes arising out of or relating to these Terms or the use of our Platform will be subject to the exclusive jurisdiction of the courts located in **[Your City/State]**.
+These Terms are governed by and construed in accordance with the laws of **India**. Any disputes arising out of or relating to these Terms or the use of our Platform will be subject to the exclusive jurisdiction of the courts located in **Hyderabad, Telangalan**.
 
 ---
 
